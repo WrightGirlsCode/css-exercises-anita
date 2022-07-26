@@ -1,0 +1,23 @@
+
+
+/* my solution
+div {
+    background-color: red;
+    color: white;
+    font-family: Verdana;
+    font-size: 35px;
+    text-align: center;
+    block-size: fit-content;
+    font-weight: bold;
+}
+*/
+
+/*below is TOP solution */
+
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
