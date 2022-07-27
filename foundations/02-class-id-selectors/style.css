@@ -1,0 +1,20 @@
+.first {
+    background-color: pink;
+    font-size: large;
+}
+
+#mine {
+    color: blue;
+    font-weight: normal;
+    font-size: 55px; 
+    block-size: fit-content; 
+    font-family:Arial, Helvetica, sans-serif;  
+}
+.cool {
+font-size: xx-large;}
+
+#yours {
+background-color: greenyellow;
+font-size: xx-large;
+font-weight: bold;
+}
