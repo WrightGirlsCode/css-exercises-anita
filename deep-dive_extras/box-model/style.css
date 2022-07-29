@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+
+.box-one {
+    background-color: lightgreen;
+    border: 0 solid blue;
+}
+
+.box-two {
+    background-color: blueviolet;
+    border: 0 dotted black;
+
+}
+
+.box-three {
+    background-color: pink;
+    border: 0 dashed hotpink;
+}
