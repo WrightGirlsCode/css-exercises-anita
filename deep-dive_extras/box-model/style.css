@@ -1,21 +1,37 @@
+/* comments */
 * {
     padding: 0;
-    margin: 0;
-    font-size: 40px;
+    margin: 0 auto;
+    /*box-sizing: border-box;*/
+    text-align: center;
+
 }
+
 
 .box-one {
     background-color: lightgreen;
-    border: 0 solid blue;
+    border: 10px solid blue;
+    /* the following settings help center the text */
+    margin: auto;
+    
+    
 }
 
 .box-two {
     background-color: blueviolet;
-    border: 0 dotted black;
+    
+    border: 40px solid black;
+    margin: 10px;
 
 }
 
 .box-three {
     background-color: pink;
-    border: 0 dashed hotpink;
+    padding: 60px;
+    border: 40px solid darkgreen;
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+
 }
+
