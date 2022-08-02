@@ -1,37 +1,38 @@
-/* comments */
-* {
-    padding: 0;
-    margin: 0 auto;
-    /*box-sizing: border-box;*/
-    text-align: center;
-
-}
+/* all of the boxes below have text that is centered either by specifying text-align or by using the padding and margin attributes (box 4) */
 
 
 .box-one {
     background-color: lightgreen;
     border: 10px solid blue;
-    /* the following settings help center the text */
-    margin: auto;
-    
-    
+    text-align: center;
+      
 }
 
 .box-two {
     background-color: blueviolet;
-    
     border: 40px solid black;
     margin: 10px;
+    text-align: center;
+
 
 }
 
 .box-three {
     background-color: pink;
-    padding: 60px;
-    border: 40px solid darkgreen;
-    margin: 10px;
-    height: 100px;
-    width: 100px;
+    border: 10px solid red;
+    padding: 50px;
+    margin: 25px;
+    text-align: center;
 
+
+
+}
+
+.four {
+    background-color: lightskyblue;
+    width: 250px;
+    border: 10px solid purple;
+    padding: 50px;
+    margin: 25px;
 }
 
